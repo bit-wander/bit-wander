@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey! I'm Rafi 👋
+I'm an AI researcher specially focused on Computational Social Science
+
+Doing things around AI-driven social analysis and human-centered computing.
 
 <!--
 **bit-wander/bit-wander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
